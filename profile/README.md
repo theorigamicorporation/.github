@@ -1,4 +1,9 @@
-## Hi there 👋
+## The Origami Corporation
+
+<p align="center">
+  <img height="150" src="https://theorigamicorporation.com/wp-content/uploads/2024/02/logo-7k-dropshadow.png">
+  <h3 align="center">Helping you build the future</h3>
+</p>
 
 <!--
 
